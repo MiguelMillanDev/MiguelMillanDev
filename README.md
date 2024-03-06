@@ -20,16 +20,16 @@
 - Backend: <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" style="margin-right: 60px;"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" style="margin-right: 60px;"> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="50" style="margin-right: 60px;"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" height="50" style="margin-right: 60px;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="50" style="margin-right: 100px;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" height="50" style="margin-right: 100px;"> 
 - Base de Datos: <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="50" style="margin-right: 60px;"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Google_Firebase_Logo_2020.svg" height="50" style="margin-right: 60px;"> 
+  <img src="https://imgs.search.brave.com/vEGGBGmjG0KHK1v4mo23JikmbGdRVgk-OfxxHn_XxM0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2JkL0ZpcmViYXNl/X0xvZ28ucG5n" height="50" style="margin-right: 60px;"> 
 - Otros: <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50" style="margin-right: 60px;">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" style="margin-right: 60px;">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="50" style="margin-right: 60px;">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Firebase_Logo.png" height="50" style="margin-right: 60px;"> 
+ <img src="https://imgs.search.brave.com/vEGGBGmjG0KHK1v4mo23JikmbGdRVgk-OfxxHn_XxM0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2JkL0ZpcmViYXNl/X0xvZ28ucG5n" height="50" style="margin-right: 60px;"> 
 
 ---
 
